@@ -5,7 +5,7 @@ I'm **Vinay Faye**, a passionate Software Developer with experience in designing
 ## 💼 Professional Background
 
 - **Experience:** 3.6+ years of software development
-- **Languages:** JavaScript (Angular), .NET Core, Flutter, SQL, Java
+- **Languages:** TypeScript (Angular), .NET Core, Flutter, SQL, Java
 - **Certification:** AZ-900 (Azure Fundamentals)
 
 ## 🧑‍💻 Expertise
